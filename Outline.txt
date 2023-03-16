@@ -7,3 +7,4 @@ Fourth line added in first branch
 Fifth line added in first branch
 
 in branch a
+in branch b
